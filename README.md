@@ -1,4 +1,4 @@
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/c52b266e-db33-461b-8101-0e9a77ce80f0" />
+<img width="2000" height="1105" alt="image" src="https://github.com/user-attachments/assets/b07b3db5-c8b7-44fc-befa-1900c1805f6d" />
 
 
 # 📘 All About TypeScript (PH 2026)
